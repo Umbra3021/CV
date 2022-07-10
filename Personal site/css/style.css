@@ -1,12 +1,51 @@
 body{
     margin:0;
+    text-align: center;
+    
 }
 
 h1{
     margin:0;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 .top {
+    margin: 0;
+    background-color:#ABC9FF;
+    padding-top: 100px;
+}
 
-    background-color:#6E85B7;
+.middle
+{   margin: 0;
+    background-color: #FFDEDE;
+}
+
+.bottom{
+    margin: 0;
+    background-color: #FF8B8B;
+}
+
+.cloud1{
+
+    position: absolute;
+    right:500px
+    
+}
+
+.cloud2{
+
+    position: absolute;
+    
 }
